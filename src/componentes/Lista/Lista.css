@@ -1,0 +1,16 @@
+.lista{
+    display: flex;
+    justify-content: center;
+    margin: 80px 0;
+}
+
+.lista form{
+    max-width: 100%;
+    background-color: #F5F5F5;
+    border-radius: 35px;
+    padding: 30px 66px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.08);
+
+}
+
+
